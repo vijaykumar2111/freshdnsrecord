@@ -9,7 +9,3 @@ while i=1
 	git push origin master;
 	sleep 30m;
  done
-<<<<<<< HEAD
-
-=======
->>>>>>> 2f3077fd1f9d3af79b766be13ebc7be18ea55a45
